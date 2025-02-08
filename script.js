@@ -105,7 +105,7 @@ ScrollTrigger.defaults({
       endTrigger: ".outintro",
       end: "bottom bottom", 
       scrub: 1, 
-      markers: true,
+      
    }
   
 });
